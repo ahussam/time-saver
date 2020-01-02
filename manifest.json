@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
   "name": "TimeSaver",
+  "description": "A chrome extension to redirect you from social media sites to useful resource URLs.",
   "version": "0.1",
   "permissions": [
     "tabs"
