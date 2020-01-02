@@ -1,4 +1,4 @@
-# timer-saver
+# time-saver
 A chrome extension to redirect you from social media sites to useful resource URLs. 
 
 ## Add or Remove URLs 
