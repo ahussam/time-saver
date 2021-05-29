@@ -1,5 +1,7 @@
 //An array of unwanted to visit URLs 
-var blockedUrl = ['www.facebook.com',
+var blockedUrl = [
+    'www.facebook.com',
+    'web.facebook.com',
     'web.twitter.com',
     'twitter.com',
     'mobile.twitter.com',
